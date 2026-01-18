@@ -100,5 +100,17 @@
     "eyes": "happy",
     "mouth": "smile",
     "badge": "Newbie"
+  },
+  {
+    "name": "Hassan Hassan",
+    "github": "hassan27-git",
+    "quote": "What could go wrong?",
+    "gender": "male",
+    "hairColor": "#000000",
+    "dressColor": "#0f3d2e",
+    "nameColor": "#00ff41",
+    "eyes": "normal",
+    "mouth": "normal",
+    "badge": "Newbie"
   }
 ]
